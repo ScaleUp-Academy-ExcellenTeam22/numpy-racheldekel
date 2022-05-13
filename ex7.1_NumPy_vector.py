@@ -13,4 +13,4 @@ def create_vector():
 
 if __name__ == '__main__':
     print(create_vector())
-    
+
